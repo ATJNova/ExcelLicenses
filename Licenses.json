@@ -1,7 +1,8 @@
 
  {
-  "client001": { "paid_until": "2024-01-01" },
+  "client001": { "paid_until": "2025-01-01" },
   "client002": { "paid_until": "2025-10-15" }
 
 }
+
 
