@@ -3,7 +3,7 @@
   "client001": { "paid_until": "2025-10-30" },
   "client002": { "paid_until": "2025-10-30" }
   "client003": { "paid_until": "2025-10-30" }
-  "client004": { "paid_until": "2025-9-30" }
+  "client004": { "paid_until": "2025-10-30" }
   "client005": { "paid_until": "2025-10-30" },
   "client006": { "paid_until": "2025-10-30" }
   "client007": { "paid_until": "2025-10-30" }
@@ -13,6 +13,7 @@
 
   
 }
+
 
 
 
