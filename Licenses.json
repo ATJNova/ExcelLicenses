@@ -1,26 +1,120 @@
 
  {
-  "client001": { "paid_until": "2025-11-30" },
-  "client002": { "paid_until": "2025-12-30" }
-  "client003": { "paid_until": "2025-12-30" }
-  "client004": { "paid_until": "2025-12-30" }
-  "client005": { "paid_until": "2025-12-30" },
-  "client006": { "paid_until": "2025-12-30" }
-  "client007": { "paid_until": "2025-12-30" }
-  "client008": { "paid_until": "2025-12-30" }
-  "client009": { "paid_until": "2025-12-30" }
-  "client010": { "paid_until": "2025-12-30" },
-  "client011": { "paid_until": "2025-12-30" }
-  "client012": { "paid_until": "2025-12-30" }
-  "client013": { "paid_until": "2025-12-30" }
-  "client014": { "paid_until": "2025-12-30" },
-  "client015": { "paid_until": "2025-12-30" }
-  "client016": { "paid_until": "2025-12-30" }
-  "client0017": { "paid_until": "2025-12-30" }
+  "client001": { "paid_until": "2025-03-30" },
+  "client002": { "paid_until": "2026-03-30" },
+  "client003": { "paid_until": "2026-03-30" },
+  "client004": { "paid_until": "2026-03-30" },
+  "client005": { "paid_until": "2026-03-30" },
+  "client006": { "paid_until": "2026-03-30" },
+  "client007": { "paid_until": "2026-03-30" },
+  "client008": { "paid_until": "2026-03-30" },
+  "client009": { "paid_until": "2026-03-30" },
+  "client010": { "paid_until": "2026-03-30" },
+
+  "client011": { "paid_until": "2026-03-30" },
+  "client012": { "paid_until": "2026-03-30" },
+  "client013": { "paid_until": "2026-03-30" },
+  "client014": { "paid_until": "2026-03-30" },
+  "client015": { "paid_until": "2026-03-30" },
+  "client016": { "paid_until": "2026-03-30" },
+  "client017": { "paid_until": "2026-03-30" },
+  "client018": { "paid_until": "2026-03-30" },
+  "client019": { "paid_until": "2026-03-30" },
+  "client020": { "paid_until": "2026-03-30" },
+
+  "client021": { "paid_until": "2026-03-30" },
+  "client022": { "paid_until": "2026-03-30" },
+  "client023": { "paid_until": "2026-03-30" },
+  "client024": { "paid_until": "2026-03-30" },
+  "client025": { "paid_until": "2026-03-30" },
+  "client026": { "paid_until": "2026-03-30" },
+  "client027": { "paid_until": "2026-03-30" },
+  "client028": { "paid_until": "2026-03-30" },
+  "client029": { "paid_until": "2026-03-30" },
+  "client030": { "paid_until": "2026-03-30" },
+
+  "client031": { "paid_until": "2026-03-30" },
+  "client032": { "paid_until": "2026-03-30" },
+  "client033": { "paid_until": "2026-03-30" },
+  "client034": { "paid_until": "2026-03-30" },
+  "client035": { "paid_until": "2026-03-30" },
+  "client036": { "paid_until": "2026-03-30" },
+  "client037": { "paid_until": "2026-03-30" },
+  "client038": { "paid_until": "2026-03-30" },
+  "client039": { "paid_until": "2026-03-30" },
+  "client040": { "paid_until": "2026-03-30" },
+
+  "client041": { "paid_until": "2026-03-30" },
+  "client042": { "paid_until": "2026-03-30" },
+  "client043": { "paid_until": "2026-03-30" },
+  "client044": { "paid_until": "2026-03-30" },
+  "client045": { "paid_until": "2026-03-30" },
+  "client046": { "paid_until": "2026-03-30" },
+  "client047": { "paid_until": "2026-03-30" },
+  "client048": { "paid_until": "2026-03-30" },
+  "client049": { "paid_until": "2026-03-30" },
+  "client050": { "paid_until": "2026-03-30" },
+
+  "client051": { "paid_until": "2026-03-30" },
+  "client052": { "paid_until": "2026-03-30" },
+  "client053": { "paid_until": "2026-03-30" },
+  "client054": { "paid_until": "2026-03-30" },
+  "client055": { "paid_until": "2026-03-30" },
+  "client056": { "paid_until": "2026-03-30" },
+  "client057": { "paid_until": "2026-03-30" },
+  "client058": { "paid_until": "2026-03-30" },
+  "client059": { "paid_until": "2026-03-30" },
+  "client060": { "paid_until": "2026-03-30" },
+
+  "client061": { "paid_until": "2026-03-30" },
+  "client062": { "paid_until": "2026-03-30" },
+  "client063": { "paid_until": "2026-03-30" },
+  "client064": { "paid_until": "2026-03-30" },
+  "client065": { "paid_until": "2026-03-30" },
+  "client066": { "paid_until": "2026-03-30" },
+  "client067": { "paid_until": "2026-03-30" },
+  "client068": { "paid_until": "2026-03-30" },
+  "client069": { "paid_until": "2026-03-30" },
+  "client070": { "paid_until": "2026-03-30" },
+
+  "client071": { "paid_until": "2026-03-30" },
+  "client072": { "paid_until": "2026-03-30" },
+  "client073": { "paid_until": "2026-03-30" },
+  "client074": { "paid_until": "2026-03-30" },
+  "client075": { "paid_until": "2026-03-30" },
+  "client076": { "paid_until": "2026-03-30" },
+  "client077": { "paid_until": "2026-03-30" },
+  "client078": { "paid_until": "2026-03-30" },
+  "client079": { "paid_until": "2026-03-30" },
+  "client080": { "paid_until": "2026-03-30" },
+
+  "client081": { "paid_until": "2026-03-30" },
+  "client082": { "paid_until": "2026-03-30" },
+  "client083": { "paid_until": "2026-03-30" },
+  "client084": { "paid_until": "2026-03-30" },
+  "client085": { "paid_until": "2026-03-30" },
+  "client086": { "paid_until": "2026-03-30" },
+  "client087": { "paid_until": "2026-03-30" },
+  "client088": { "paid_until": "2026-03-30" },
+  "client089": { "paid_until": "2026-03-30" },
+  "client090": { "paid_until": "2026-03-30" },
+
+  "client091": { "paid_until": "2026-03-30" },
+  "client092": { "paid_until": "2026-03-30" },
+  "client093": { "paid_until": "2026-03-30" },
+  "client094": { "paid_until": "2026-03-30" },
+  "client095": { "paid_until": "2026-03-30" },
+  "client096": { "paid_until": "2026-03-30" },
+  "client097": { "paid_until": "2026-03-30" },
+  "client098": { "paid_until": "2026-03-30" },
+  "client099": { "paid_until": "2026-03-30" },
+  "client100": { "paid_until": "2026-03-30" }
+}
 
 
   
 }
+
 
 
 
